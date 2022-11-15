@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course assignments, class participation,
+  and workshops.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
